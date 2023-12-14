@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/sweeftDigital-project/static/css/main.6f5f83c3.css",
+    "main.js": "/sweeftDigital-project/static/js/main.0c505b59.js",
+    "index.html": "/sweeftDigital-project/index.html",
+    "main.6f5f83c3.css.map": "/sweeftDigital-project/static/css/main.6f5f83c3.css.map",
+    "main.0c505b59.js.map": "/sweeftDigital-project/static/js/main.0c505b59.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6f5f83c3.css",
+    "static/js/main.0c505b59.js"
+  ]
+}
