@@ -1,0 +1,50 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.CountrySelect {
+  padding: 10px;
+  margin: 10px;
+  cursor: pointer;
+  width: calc(100% - 20px);
+}
+h1{
+  font-size: xx-large;
+}
+.CountryInfo {
+  box-shadow: 2px 2px 5px black;
+  padding: 20px;
+}
+
+
+.countryNameFlag {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.countryNameFlag img {
+  margin-left: 10px;
+  width: 80px;
+  height: 50px;
+}
+
+.infoDetails {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.leftInfo,
+.rightInfo {
+  display: flex;
+  flex-direction: column;
+}
+
+.leftInfo>*,
+.rightInfo>*{
+  margin: 5px 0;
+  padding: 5px 0;
+}
